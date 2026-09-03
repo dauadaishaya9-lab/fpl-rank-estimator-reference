@@ -1,0 +1,11 @@
+{
+  "name": "fpl-rank-estimator-reference",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Standalone reference implementation of the FPL Rank Estimator.",
+  "dependencies": {
+    "pg": "^8.16.3",
+    "react": "^19.1.1"
+  }
+}
